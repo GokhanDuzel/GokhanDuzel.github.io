@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: cursive;
+    font-size: 18px;
+    background-color: #f4f9f4;
+    text-align: center;
+}
+h1 {
+    background-color: #6b7b8e;
+    text-align: center;
+}
+
+form {
+    text-align: justify;
+    margin-bottom: 20px;
+    
+}
+
+
+.studentInfo {
+    background-color: #6b7b8e;
+    text-align: center;
+}
+
+.form {
+    text-align: center;
+    background-color: #acdeaa; 
+}
+
+.image img{
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image {
+    margin-top: 20px;
+}
+
+
